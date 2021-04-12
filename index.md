@@ -111,7 +111,7 @@ address.
   
     This is an online event. We will meet using the online videoconference software Zoom. You will need to <a href="https://zoom.us/download">download and install their client</a> to connect with your instructors. The link to use for this event is
   
-  <a href="//carpentries.zoom.us/my/carpentriesroom3">"https://carpentries.zoom.us/my/carpentriesroom3?pwd=ZGY2VVRIRDhGSU84Uys1dEx1YXphZz09"</a>.  If needed, the password is **202020**.
+  <a href="//carpentries.zoom.us/my/carpentriesroom1">"https://carpentries.zoom.us/my/carpentriesroom1"</a>.
 </p>
 {% endif %}
 
@@ -140,7 +140,7 @@ Modify the block below if there are any special requirements.
 
   <p>
   <strong>Application form</strong>:
- Please use this <a href ="https://docs.google.com/forms/d/1rd3kcGg6X0D_bvpid9vwbswcSnfQUa4hbXxaPlLg8q8"><b>application form</b></a>.
+ Please use this <a href ="https://docs.google.com/forms/d/e/1FAIpQLSd0VxTtBrOtciyzfKFa5Tpkfu40qT7QwPjN1vwamXrK-LtqVQ"><b>application form</b></a>.
  Successful candidates will be notified via email.
 </p>
 
